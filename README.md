@@ -1,6 +1,3 @@
 # DLLM
 
-Danny
-ynnaD
-DaDaDa
-DuDuDu
+測驗一下
